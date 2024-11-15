@@ -1,10 +1,10 @@
 
 ### Hi there, I'm Alex Eseyin, Welcome to my Github<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crownedprinz" alt="crownedprinz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lekaneseyin" alt="lekaneseyin" /> </p>
 
 ## I'm a Full Stack Developer with over 5+ years in software development
-- 🔭 I’m currently working at [Sterling Bank Nigeria](https://www.linkedin.com/company/fidelity-investments/)
+- 🔭 I’m currently working at [Fidelity Investments](https://www.linkedin.com/company/fidelity-investments/)
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2024 Goals: Contribute more to Open Source projects
