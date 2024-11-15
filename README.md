@@ -35,7 +35,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crownedprinz&layout=compact)](https://github.com/lekaneseyin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekaneseyin&layout=compact)](https://github.com/lekaneseyin)
 
 [twitter]: https://twitter.com/lexbrayan
 
